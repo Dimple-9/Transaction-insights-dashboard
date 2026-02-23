@@ -38,13 +38,13 @@ Charts and summaries present financial insights clearly.
 
 ##  Dashboard Preview
 
-![Dashboard]("C:\Users\Dimple\OneDrive\Pictures\Screenshots\Dashboard_overview.png")
+![Dashboard](Dashboard_overview.png)
 
 ---
 
 #  System Workflow
 
-![Process Flow]("C:\Users\Dimple\OneDrive\Desktop\Business Analytics Portfolio\Transaction_Tagging Analytics\transactions process flow.png")
+![Process Flow](transactions process flow.png)
 
 ---
 
