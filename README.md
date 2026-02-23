@@ -38,13 +38,13 @@ Charts and summaries present financial insights clearly.
 
 ##  Dashboard Preview
 
-![Dashboard](Dashboard_overview.png)
+![Dashboard](dashboard%20insights.png)
 
 ---
 
 #  System Workflow
 
-![Process Flow](transactions process flow.png)
+![Process Flow](transactions%20process%20flow.png)
 
 ---
 
