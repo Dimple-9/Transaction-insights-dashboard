@@ -12,11 +12,11 @@ Bank transaction statements are difficult to interpret. Users struggle to identi
 ## Solution
 This project processes transaction data and provides:
 
-✔ automated expense categorization  
-✔ smart keyword search  
-✔ monthly spending analysis  
-✔ category-wise spending insights  
-✔ visual dashboard for financial awareness  
+automated expense categorization  
+smart keyword search  
+monthly spending analysis  
+category-wise spending insights  
+visual dashboard for financial awareness  
 
 ---
 
@@ -38,13 +38,13 @@ Charts and summaries present financial insights clearly.
 
 ##  Dashboard Preview
 
-![Dashboard](dashboard insights.png)
+![Dashboard]("C:\Users\Dimple\OneDrive\Pictures\Screenshots\Dashboard_overview.png")
 
 ---
 
 #  System Workflow
 
-![Process Flow](transactions-process flow.png)
+![Process Flow]("C:\Users\Dimple\OneDrive\Desktop\Business Analytics Portfolio\Transaction_Tagging Analytics\transactions process flow.png")
 
 ---
 
@@ -59,10 +59,10 @@ Charts and summaries present financial insights clearly.
 ##  Business Value
 This solution helps users:
 
-✔ understand spending patterns  
-✔ identify high expense areas  
-✔ track financial behavior  
-✔ support better financial planning  
+ understand spending patterns  
+ identify high expense areas  
+ track financial behavior  
+ support better financial planning  
 
 ---
 
